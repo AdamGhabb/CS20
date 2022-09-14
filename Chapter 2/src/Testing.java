@@ -34,8 +34,6 @@ public class Testing {
 		
 		
 		System.out.println("The Salary you have entered is: " + salary);
-		
-		System.out.print("To confirm everything your name is " + name ". And your age is  + age ". "And your salary is " + salary );
 	}
 
 }
