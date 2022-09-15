@@ -11,7 +11,7 @@ public class Testing {
 		int age;
 		double salary;
 		String name;
-		char FirstInitial;
+		//char FirstInitial;
 
 		System.out.println("Please enter your full name: ");
 		
